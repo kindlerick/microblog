@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "The <div> That Changed Everything",
+    "slug": "first-blog",
+    "date": "2026-09-02",
+    "category": "First Category",
+    "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae justo nec lorem tincidunt consequat.</p><p>Donec vel sapien at ipsum consequat tincidunt. Mauris suscipit, neque at aliquam posuere, nunc lectus tincidunt nulla, vitae facilisis erat justo non augue.</p><h2>A New Beginning</h2><p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed consectetur, libero at tincidunt consequat, lorem justo malesuada lorem.</p>"
+  },
+  {
+    "id": 2,
+    "title": "Why <button> Is Not a <div>",
+    "slug": "second-blog",
+    "date": "2026-09-01",
+    "category": "Second Category",
+    "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><h2>The Importance of Semantics</h2><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Integer posuere erat a ante venenatis dapibus.</p>"
+  },
+  {
+    "id": 3,
+    "title": "A Short History of <main>",
+    "slug": "third-blog",
+    "date": "2026-08-29",
+    "category": "Third Category",
+    "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo.</p><p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur purus sit amet fermentum.</p><h2>Keeping Things Simple</h2><p>Maecenas faucibus mollis interdum. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla.</p>"
+  }
+]
